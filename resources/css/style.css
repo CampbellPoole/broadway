@@ -7,6 +7,10 @@ body {
   font-size: 70px;
   color: white;
   font-weight: bold;
+  background-image: url("../images/building.png");
+  background-repeat: no-repeat;
+  background-color: transparent;
+  -moz-background-size: cover;
 }
 
 ul {
