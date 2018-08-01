@@ -17,7 +17,6 @@ body {
 ul {
   list-style-type: none;
   font-size: 18px;
-  text-decoration: underline;
   line-height: 200%;
 }
 
@@ -51,4 +50,7 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+a {
+  color: white;
 }
