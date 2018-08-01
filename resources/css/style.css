@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-.top {
+#top {
   font-size: 70px;
   color: white;
   font-weight: bold;
@@ -21,7 +21,7 @@ ul {
   line-height: 200%;
 }
 
-.process {
+#process {
   font-size: 32px;
   font-weight: bold;
 }
@@ -44,4 +44,11 @@ p {
 }
 .contact {
   line-height: 200%;
+}
+
+#end {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
