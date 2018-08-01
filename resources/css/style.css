@@ -42,3 +42,6 @@ p {
     -o-background-size: cover;
     background-size: cover;
 }
+.contact {
+  line-height: 200%;
+}
