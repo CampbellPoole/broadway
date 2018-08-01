@@ -8,8 +8,6 @@ body {
   color: white;
   font-weight: bold;
   background-image: url("../images/building.png");
-  background-repeat: no-repeat;
-  background-color: transparent;
   -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -34,4 +32,13 @@ h3 {
 }
 p {
   font-size: 14px;
+}
+
+.ny {
+  color: white;
+  background-image: url("../images/building.png");
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
